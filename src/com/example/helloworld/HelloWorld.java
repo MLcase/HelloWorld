@@ -14,6 +14,7 @@ public class HelloWorld {
         }
 
         // output of selected message and its length
+        System.out.println("Start");
         System.out.println(message);
         System.out.println("This string has " + message.length() + " characters.");
 
