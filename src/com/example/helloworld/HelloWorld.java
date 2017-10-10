@@ -2,7 +2,7 @@ package com.example.helloworld;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        String option1 = "Oh, hello World!";
+        String option1 = "Oh, hello World";
         String option2 = "Hello World!";
         String message;
 
